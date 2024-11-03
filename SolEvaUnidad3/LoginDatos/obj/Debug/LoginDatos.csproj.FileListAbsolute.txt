@@ -1,0 +1,12 @@
+C:\Users\GMVA\source\repos\SolEvaUnidad3\LoginDatos\bin\Debug\LoginDatos.dll
+C:\Users\GMVA\source\repos\SolEvaUnidad3\LoginDatos\bin\Debug\LoginDatos.pdb
+C:\Users\GMVA\source\repos\SolEvaUnidad3\LoginDatos\obj\Debug\LoginDatos.csproj.AssemblyReference.cache
+C:\Users\GMVA\source\repos\SolEvaUnidad3\LoginDatos\obj\Debug\LoginDatos.csproj.CoreCompileInputs.cache
+C:\Users\GMVA\source\repos\SolEvaUnidad3\LoginDatos\obj\Debug\LoginDatos.dll
+C:\Users\GMVA\source\repos\SolEvaUnidad3\LoginDatos\obj\Debug\LoginDatos.pdb
+C:\Users\gaspa\OneDrive\Escritorio\SolEvaUnidad3\LoginDatos\bin\Debug\LoginDatos.dll
+C:\Users\gaspa\OneDrive\Escritorio\SolEvaUnidad3\LoginDatos\bin\Debug\LoginDatos.pdb
+C:\Users\gaspa\OneDrive\Escritorio\SolEvaUnidad3\LoginDatos\obj\Debug\LoginDatos.csproj.AssemblyReference.cache
+C:\Users\gaspa\OneDrive\Escritorio\SolEvaUnidad3\LoginDatos\obj\Debug\LoginDatos.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\OneDrive\Escritorio\SolEvaUnidad3\LoginDatos\obj\Debug\LoginDatos.dll
+C:\Users\gaspa\OneDrive\Escritorio\SolEvaUnidad3\LoginDatos\obj\Debug\LoginDatos.pdb
